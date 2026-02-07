@@ -52,7 +52,7 @@ https://alien-chatbot.streamlit.app
 
 <div align="center">
   <!-- Add your own screenshots here later -->
-  <!-- <img src="screenshot1.png" width="45%" alt="Desktop View"> -->
+  <img src="alien chatbot.PNG" width="45%" alt="Desktop View"> 
   <!-- <img src="screenshot2.png" width="45%" alt="Mobile View"> -->
 </div>
 
